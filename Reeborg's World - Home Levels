@@ -1,0 +1,43 @@
+Home 1:
+
+move()
+move()
+
+
+Home 2:
+
+move()
+move()
+
+
+Home 3:
+
+move()
+move()
+turn_left()
+move()
+
+
+Home 4:
+
+def turn_right():
+    for i in range(3):
+        turn_left()
+
+def L_shape():
+    for i in range(3):
+        move()
+    turn_left()
+    for i in range(3):
+        move()
+
+def new_start():
+    move()
+    turn_right()
+
+for i in range(3):
+    L_shape()
+    turn_right()
+    new_start()
+    
+L_shape()
