@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeFridman
 - 👀 I’m interested in programming, self-development, and football
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python Programming Language
 - 📫 You can reach me on Instagram: @codechallengechronicles
 
 <!---
